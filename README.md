@@ -1,11 +1,10 @@
-# Data Analysis Log
+# 📊 Data Analysis Log
 
-This repository contains my data analysis learning and practice logs.
+데이터 분석가 취업 준비 과정에서 작성한 코드와 학습 기록입니다.
 
-It includes:
-- SQL practice and query logs
-- Data analysis scripts (Python, etc.)
-- Project-related code and experiments
-- Analysis notes and trial implementations
+## 구성
+- `SQL/` — 프로그래머스 SQL 풀이 (카테고리별 정리)
+- `projects/` — 개인 프로젝트 분석 코드
 
-The purpose of this repository is to track my progress and document hands-on work in data analysis.
+## 포트폴리오
+👉 [노션 포트폴리오 링크]()
