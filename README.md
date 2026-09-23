@@ -8,3 +8,7 @@
 
 ## 포트폴리오
 👉 [노션 포트폴리오 링크]()
+
+## 🤖 성장하는 에이전트
+[Hermes Agent](https://github.com/NousResearch/hermes-agent)의 폐쇄형 학습 루프를 참고한 Claude Code 환경이 설정되어 있습니다.
+RECALL → ACT → REFLECT → PERSIST → REUSE — 자세한 내용은 [`CLAUDE.md`](CLAUDE.md) 참고.
