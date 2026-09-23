@@ -11,4 +11,4 @@
 - 카테고리 README는 `scripts/build_index.py`가 생성 — 직접 편집 금지.
 
 ## 교훈
-- (아직 없음 — /reflect 로 채워짐)
+- git push 403 = Claude GitHub App 권한 문제(네트워크 아님) → 재시도 말고 사용자에게 앱 설치/재연결 안내.
